@@ -1,0 +1,15 @@
+[submodule "oo_nan_prodlot_quality_control"]
+	path = oo_nan_prodlot_quality_control
+	url = https://github.com/jeffery9/oo_nan_prodlot_quality_control.git
+[submodule "oo_nan_prodlot_sample_library"]
+	path = oo_nan_prodlot_sample_library
+	url = https://github.com/jeffery9/oo_nan_prodlot_sample_library.git
+[submodule "oo_nan_prodlot_quality_control_input"]
+	path = oo_nan_prodlot_quality_control_input
+	url = https://github.com/jeffery9/oo_nan_prodlot_quality_control_input.git
+[submodule "oo_nan_prodlot_quality_control_production"]
+	path = oo_nan_prodlot_quality_control_production
+	url = https://github.com/jeffery9/oo_nan_prodlot_quality_control_production.git
+[submodule "nan_quality_control"]
+	path = nan_quality_control
+	url = https://github.com/jeffery9/nan_quality_control.git
